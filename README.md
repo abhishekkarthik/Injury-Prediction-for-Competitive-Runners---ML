@@ -1,4 +1,4 @@
-# Injury_Prediction_for_Competitive_Runners_ML
+# Injury Prediction for Competitive Runners - ML
 
 Understand the relationship between features using Exploratory Data Analysis and using machine learning for the prediction of injury in competitive runners.
 
